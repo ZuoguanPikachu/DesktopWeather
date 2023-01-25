@@ -1,9 +1,0 @@
-{
-  "X": 6,
-  "Y": 6,
-  "Location": [ "110°00′00″", "30°00′00″" ],
-  "WeatherToken": "{Form: http://www.caiyunapp.com/api/weather_intro.html}",
-  "AmapToken": "{Form: https://lbs.amap.com}",
-  "EditorPath": "notepad.exe",
-  "LocationCorrection": true
-}
